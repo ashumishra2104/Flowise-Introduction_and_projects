@@ -6,6 +6,7 @@
 ---
 
 ## 🚀 Overview
+<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/6caa4efb-eb61-43a3-a025-5b4a038b0bdb" />
 
 Welcome to this comprehensive repository dedicated to learning and building with **Flowise AI**. This project serves as a structured guide for understanding how to build Logic-based Low-Code/No-Code AI agents and workflows.
 
