@@ -207,6 +207,8 @@ A: Just send them the public URL. No installation needed on their end.
 4. Click "Create Space"
 5. Done! Get your public URL
 
+Link : https://docs.flowiseai.com/configuration/deployment/hugging-face
+
 ### For Render (SIMPLE):
 1. Go to [render.com](https://render.com)
 2. Sign up (free account)
